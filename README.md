@@ -5,7 +5,7 @@ An AI-powered outfit recommendation app that generates personalized style sugges
 ## Features
 
 - User authentication (registration/login)
-- AI-powered outfit generation using OpenAI GPT
+- AI-powered outfit generation using OpenAI 
 - Seasonal and event-based recommendations
 - MongoDB database integration
 - Responsive web interface
